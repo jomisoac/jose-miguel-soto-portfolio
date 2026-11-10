@@ -1,0 +1,24 @@
+{
+  "name": "José Miguel Soto Acosta",
+  "short_name": "JM Soto",
+  "description": "Portafolio profesional — ingeniería web remota",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f1f3f5",
+  "theme_color": "#0b5e4b",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "jose-miguel-soto.png",
+      "sizes": "215x215",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
